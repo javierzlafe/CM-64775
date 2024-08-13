@@ -99,7 +99,6 @@ if (ofertaDelUsuario < 1000){
 
 
 
-
 //OPERADORES LOGICOS  (AND-OR-NOT)  && || !
 
 //BUSCAR EL GOOGLE LA TABLA DE LA VERDAD 
@@ -270,7 +269,7 @@ do{
 
 
 
-let intentos = 3
+/* let intentos = 3
 let identificar = true
 do{
     let usuario = prompt("ingresa tu usuario, (solo 3 intentos)")
@@ -284,7 +283,4 @@ do{
             break
         }
     }
-}while(identificar)
-
-
-
+}while(identificar) */
